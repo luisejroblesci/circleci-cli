@@ -1,11 +1,5 @@
 # circleci-cli
 
-This is CircleCI's command-line application.
-
-[Documentation](https://cli.circleci.com/reference/) |
-[Code of Conduct](./CODE_OF_CONDUCT.md) |
-[Contribution Guidelines](./CONTRIBUTING.md) |
-
 [![CircleCI](https://circleci.com/gh/CircleCI-Public/circleci-cli.svg?style=shield)](https://circleci.com/gh/CircleCI-Public/circleci-cli)
 [![GitHub release](https://img.shields.io/github/tag/CircleCI-Public/circleci-cli.svg?label=latest)](https://github.com/CircleCI-Public/circleci-cli/releases)
 [![GoDoc](https://img.shields.io/badge/godoc-reference-blue.svg)](https://godoc.org/github.com/CircleCI-Public/circleci-cli)
