@@ -45,3 +45,5 @@ func main() {
 		os.Exit(atoi)
 	}
 }
+
+// bench-run-1
